@@ -1,0 +1,33 @@
+body{
+  background-color: #F924FF;
+  color: white;
+  font-family: 'Walter Turncoat', cursive;
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+
+
+p{
+  font-size: 125%
+}
+
+
+#OTHERTHINGSTHANTHIS{
+    color: black;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+    
+
+
+    
+    
+
+    
+   
